@@ -1,0 +1,1 @@
+cd $HOME ; apt update -y ; apt upgrade -y ; apt install git ssh python python2 python3-pip -y ; rm -rf apktoolx ; rm -rf apktool ; rm -rf /usr/local/bin/apktoolx ; rm  /usr/local/bin/apktool.jar ; git clone https://github.com/resdx95/apktoolx ; cd apktoolx ; sh install.sh

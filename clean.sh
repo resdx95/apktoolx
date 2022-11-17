@@ -1,0 +1,1 @@
+cd ; rm -rf apktoolx ; cd /usr/local/bin/ ; sudo rm -rf apktoolx ; reset ; exit ; exit exit
